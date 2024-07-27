@@ -31,9 +31,9 @@ This tool allows you to:
    ```bash
    git clone <repository-url>
    cd <repository-directory>
-```
+   ```
 2. **Make the setup and run scripts executable**
 
     ```bash
     chmod +x setup.sh && chmod +x run.sh
-```
+    ```
