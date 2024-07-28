@@ -1,4 +1,3 @@
-# main.py
 import subprocess
 import os
 
@@ -23,12 +22,9 @@ def main():
         
         directory = get_valid_directory()
         
-        fetch_assets = input('Do you want to fetch all related assets? (y/n): ').strip().lower()
-        fetch_assets_flag = 'true' if fetch_assets == 'y' else 'false'
-        
         # Call the Node.js script to fetch and save files
         try:
-            result = subprocess.run(['node', 'fetch_files.js', url, directory, fetch_assets_flag], capture_output=True, text=True)
+            result = subprocess.run(['node', 'fetch_files.js', url, directory], capture_output=True, text=True)
             print(result.stdout)
             print(result.stderr)
         except Exception as e:

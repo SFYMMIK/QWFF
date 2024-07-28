@@ -1,5 +1,7 @@
 # QWFF
 
+# Update 1.1.1 could be the last update of QWFF, and please just keep that in mind.
+
 A CLI tool that fetches and saves HTML, CSS, JavaScript, and other assets from a given website URL. The program is implemented using a combination of C, Python, and Node.js.
 
 ## Overview
