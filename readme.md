@@ -6,9 +6,10 @@ A CLI tool that fetches and saves HTML, CSS, JavaScript, and other assets from a
 
 This tool allows you to:
 - Validate URLs.
-- Fetch and save HTML content.
-- Download associated assets like CSS, JavaScript, and images.
-- Save these files in a specified directory.
+- Fetch and save specified HTML content and other file types.
+- Optionally fetch and save all related assets (CSS, JavaScript, images).
+- Save these files in a specified directory, preserving directory structure.
+
 
 ## Components
 
