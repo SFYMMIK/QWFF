@@ -1,5 +1,5 @@
 # Quick update of readme
-## i have just saw how people can hack you by creating fake websites with a tool like this one (QWFF), QWFF snatches all of the html css and jas or some other languages surce code of the website if it can, and because some websites might be fake and people might be using this tool for doing it, just remember i have only created this tool and i do not want to be in some mes like that, this tool allows you to do that but doesn't mean that it encourages you to do something like this.
+## i have just saw how people can hack you by creating fake websites with a tool like this one (QWFF), QWFF snatches all of the html css and js or some other languages surce code of the website if it can, and because some websites might be fake and people might be using this tool for doing it, just remember i have only created this tool and i do not want to be in some mes like that, this tool allows you to do that but doesn't mean that it encourages you to do something like this.
 
 # QWFF
 
